@@ -15,7 +15,7 @@ class tarea7
         Console.Clear();
         Console.WriteLine(@"
             
-                Hola esta es la  tarea 7!!
+                Hola esta en el registro de motores !!
                                                     ,-~ |
        ________________          o==]___|
       |                |            \ \

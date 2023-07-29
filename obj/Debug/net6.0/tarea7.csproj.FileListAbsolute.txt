@@ -32,3 +32,20 @@ C:\Users\joeld\Downloads\tarea7\tarea7\obj\Debug\net6.0\refint\tarea7.dll
 C:\Users\joeld\Downloads\tarea7\tarea7\obj\Debug\net6.0\tarea7.pdb
 C:\Users\joeld\Downloads\tarea7\tarea7\obj\Debug\net6.0\tarea7.genruntimeconfig.cache
 C:\Users\joeld\Downloads\tarea7\tarea7\obj\Debug\net6.0\ref\tarea7.dll
+C:\Users\joeld\Downloads\tarea7 -joel\bin\Debug\net6.0\tarea7.exe
+C:\Users\joeld\Downloads\tarea7 -joel\bin\Debug\net6.0\tarea7.deps.json
+C:\Users\joeld\Downloads\tarea7 -joel\bin\Debug\net6.0\tarea7.runtimeconfig.json
+C:\Users\joeld\Downloads\tarea7 -joel\bin\Debug\net6.0\tarea7.dll
+C:\Users\joeld\Downloads\tarea7 -joel\bin\Debug\net6.0\tarea7.pdb
+C:\Users\joeld\Downloads\tarea7 -joel\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\joeld\Downloads\tarea7 -joel\obj\Debug\net6.0\tarea7.csproj.AssemblyReference.cache
+C:\Users\joeld\Downloads\tarea7 -joel\obj\Debug\net6.0\tarea7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeld\Downloads\tarea7 -joel\obj\Debug\net6.0\tarea7.AssemblyInfoInputs.cache
+C:\Users\joeld\Downloads\tarea7 -joel\obj\Debug\net6.0\tarea7.AssemblyInfo.cs
+C:\Users\joeld\Downloads\tarea7 -joel\obj\Debug\net6.0\tarea7.csproj.CoreCompileInputs.cache
+C:\Users\joeld\Downloads\tarea7 -joel\obj\Debug\net6.0\tarea7.csproj.CopyComplete
+C:\Users\joeld\Downloads\tarea7 -joel\obj\Debug\net6.0\tarea7.dll
+C:\Users\joeld\Downloads\tarea7 -joel\obj\Debug\net6.0\refint\tarea7.dll
+C:\Users\joeld\Downloads\tarea7 -joel\obj\Debug\net6.0\tarea7.pdb
+C:\Users\joeld\Downloads\tarea7 -joel\obj\Debug\net6.0\tarea7.genruntimeconfig.cache
+C:\Users\joeld\Downloads\tarea7 -joel\obj\Debug\net6.0\ref\tarea7.dll

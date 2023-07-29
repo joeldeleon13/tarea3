@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mV2Pft/U9jq9T4MA6lXerFOXx62Ipfh03dYjrwtYWgYzuwGN6JIomQ4g3Qo44iwU5pUR4wgcCDSZDMrcMJDZpg==",
+  "dgSpecHash": "4CTqLkoNM3cjX841qEFvtyTe9GU6DTOZ7lKU8JjxJx6XpnPX+jNMB4/MjX5HKvG+WQl3FZvebW4I+kZ07PnHlw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joeld\\Downloads\\tarea7\\tarea7\\tarea7.csproj",
+  "projectFilePath": "C:\\Users\\joeld\\Downloads\\tarea7 -joel\\tarea7.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joeld\\.nuget\\packages\\newtonsoft.json\\13.0.2-beta1\\newtonsoft.json.13.0.2-beta1.nupkg.sha512"
   ],
